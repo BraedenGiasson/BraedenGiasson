@@ -205,7 +205,7 @@ Luxembourg City, Luxembourg :luxembourg:
 
 - **UpstartEd Winner** 
 
-​		2020
+  2020
 
 - **Hockey Assistant Captain**
 
