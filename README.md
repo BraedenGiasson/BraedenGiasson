@@ -7,17 +7,17 @@
 - :maple_leaf: [About me](https://github.com/BraedenGiasson/BraedenGiasson#maple_leaf-about-me)
 - :pushpin: [Where to find me](https://github.com/BraedenGiasson/BraedenGiasson#pushpin-where-to-find-me)
 - :airplane: [Know me better](https://github.com/BraedenGiasson/BraedenGiasson#airplane-know-me-better)
-- :dart: [Project's I've worked on](https://github.com/BraedenGiasson/braedengiasson.github.io#dart-projects-ive-worked-on)
-- :pencil2: [Programming languages](https://github.com/BraedenGiasson/braedengiasson.github.io#pencil2-programming-languages)
-- :books: [Frameworks / Libraries](https://github.com/BraedenGiasson/braedengiasson.github.io#books-frameworks--libraries)
-- :iphone: [Software](https://github.com/BraedenGiasson/braedengiasson.github.io#iphone-software)
-- :heavy_plus_sign: [Even more](https://github.com/BraedenGiasson/braedengiasson.github.io#heavy_plus_sign-even-more)
-- :watch: [Experience](https://github.com/BraedenGiasson/braedengiasson.github.io#-experience)
-- :european_castle: [Travel break](https://github.com/BraedenGiasson/braedengiasson.github.io#european_castle-travel-break)
-- :mortar_board: [Education](https://github.com/BraedenGiasson/braedengiasson.github.io#mortar_board-education)
-- :thought_balloon: [Interests](https://github.com/BraedenGiasson/braedengiasson.github.io#thought_balloon-interests)
-- :trophy: [Awards](https://github.com/BraedenGiasson/braedengiasson.github.io#trophy-awards)
-- :sound: [Languages](https://github.com/BraedenGiasson/braedengiasson.github.io#sound-languages)
+- :dart: [Project's I've worked on](https://github.com/BraedenGiasson/BraedenGiasson#dart-projects-ive-worked-on)
+- :pencil2: [Programming languages](https://github.com/BraedenGiasson/BraedenGiasson#pencil2-programming-languages)
+- :books: [Frameworks / Libraries](https://github.com/BraedenGiasson/BraedenGiasson#books-frameworks--libraries)
+- :iphone: [Software](https://github.com/BraedenGiasson/BraedenGiasson#iphone-software)
+- :heavy_plus_sign: [Even more](https://github.com/BraedenGiasson/BraedenGiasson#heavy_plus_sign-even-more)
+- :watch: [Experience](https://github.com/BraedenGiasson/BraedenGiasson#-experience)
+- :european_castle: [Travel break](https://github.com/BraedenGiasson/BraedenGiasson#european_castle-travel-break)
+- :mortar_board: [Education](https://github.com/BraedenGiasson/BraedenGiasson#mortar_board-education)
+- :thought_balloon: [Interests](https://github.com/BraedenGiasson/BraedenGiasson#thought_balloon-interests)
+- :trophy: [Awards](https://github.com/BraedenGiasson/BraedenGiasson#trophy-awards)
+- :sound: [Languages](https://github.com/BraedenGiasson/BraedenGiasson#sound-languages)
 
 ## :maple_leaf: About me
 
@@ -185,13 +185,13 @@ Luxembourg City, Luxembourg :luxembourg:
   
  ## :thought_balloon: Interests
 
-​	:computer: Coding
+​	**:computer: Coding**
 
-​	:airplane: Travel
+​	**:airplane: Travel**
 
-​	:sound: Languages
+​	**:sound: Languages**
 
-​	:scroll: History
+​	**:scroll: History**
 
 ## :trophy: Awards
 
@@ -213,6 +213,6 @@ Luxembourg City, Luxembourg :luxembourg:
 
 ## :sound: Languages
 
-- English
-- French
-- German
+- **English** (professional working proficiency)
+- **French** (native or bilingual proficiency)
+- **German** (elementary proficiency)
