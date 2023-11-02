@@ -4,9 +4,9 @@
 
 ## :bookmark_tabs: Table of contents
 
-- :maple_leaf: [About me](https://github.com/BraedenGiasson/braedengiasson.github.io#maple_leaf-about-me)
-- :pushpin: [Where to find me](https://github.com/BraedenGiasson/braedengiasson.github.io#mailbox_with_mail-where-to-find-me)
-- :airplane: [Know me better](https://github.com/BraedenGiasson/braedengiasson.github.io#airplane-know-me-better)
+- :maple_leaf: [About me](https://github.com/BraedenGiasson/BraedenGiasson#maple_leaf-about-me)
+- :pushpin: [Where to find me](https://github.com/BraedenGiasson/BraedenGiasson#pushpin-where-to-find-me)
+- :airplane: [Know me better](https://github.com/BraedenGiasson/BraedenGiasson#airplane-know-me-better)
 - :dart: [Project's I've worked on](https://github.com/BraedenGiasson/braedengiasson.github.io#dart-projects-ive-worked-on)
 - :pencil2: [Programming languages](https://github.com/BraedenGiasson/braedengiasson.github.io#pencil2-programming-languages)
 - :books: [Frameworks / Libraries](https://github.com/BraedenGiasson/braedengiasson.github.io#books-frameworks--libraries)
